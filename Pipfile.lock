@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cbd6bdea2e9889ec0bdd275aa12c8dd68b0a349898483034a9495c8110b3b5d9"
+            "sha256": "59ec6c131f07b10835133a90b0679f5688dda66c5715f09b2a7209ab2dd8ffb4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1117,6 +1117,14 @@
             "markers": "python_version >= '3.8'",
             "version": "==2.2.1"
         },
+        "iniconfig": {
+            "hashes": [
+                "sha256:c76315c77db068650d49c5b56314774a7804df16fee4402c1f19d6d15d8c4730",
+                "sha256:f631c04d2c48c52b84d0d0549c99ff3859c98df65b3101406327ecc7d53fbf12"
+            ],
+            "markers": "python_version >= '3.10'",
+            "version": "==2.3.0"
+        },
         "ipykernel": {
             "hashes": [
                 "sha256:897eb64da762549ef610698fca5e9675195ec6ac8ec7f19d81ce1ca20c876057",
@@ -1214,6 +1222,14 @@
             "markers": "python_version >= '3.10'",
             "version": "==4.11.12"
         },
+        "pluggy": {
+            "hashes": [
+                "sha256:7dcc130b76258d33b90f61b658791dede3486c3e6bfb003ee5c9bfb396dd22f3",
+                "sha256:e920276dd6813095e9377c0bc5566d94c932c33b27a3e3945d8389c374dd4746"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==1.6.0"
+        },
         "prompt-toolkit": {
             "hashes": [
                 "sha256:01c0891d7f9237d5e339f7d3e42cdae80b7534abb1c7c0e3352efba6231492f2",
@@ -1270,6 +1286,15 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==2.21.0"
+        },
+        "pytest": {
+            "hashes": [
+                "sha256:1088fbde8f2b49d95a549a195707afa7a76a3ce9bcadc26b6d71f0ffda5fe313",
+                "sha256:37a86b45efb9a47a61a36449063e8e18d0cab3161329fc099eb21783169c4f0c"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==9.1.1"
         },
         "python-dateutil": {
             "hashes": [
